@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+int n; cin >> n;
+for(int i = 0; i < n; i++){
+    cin >> a[i];
+}${0}
+]]></content>
+    <tabTrigger>scan_arr</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

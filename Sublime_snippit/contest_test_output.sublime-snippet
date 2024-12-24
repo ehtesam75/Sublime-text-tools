@@ -1,0 +1,31 @@
+<snippet>
+    <content><![CDATA[
+#include <bits/stdc++.h>
+using namespace std;
+#define ll long long int
+#define FASTER ios_base::sync_with_stdio(false); cin.tie(NULL);
+#define endl '\n'
+
+const int N = 2e5 + 7;
+int a[N];
+
+void solve(int test){
+    ${1:}
+
+    cout << "Case " << test << ": " << ${2:} << endl;  
+}
+
+int32_t main(){
+    FASTER;
+    int tc, test = 0; cin >> tc;
+
+    while(tc--){
+        test++;
+        solve(test);
+    }
+    return 0;
+}
+]]></content>
+    <tabTrigger>contest</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

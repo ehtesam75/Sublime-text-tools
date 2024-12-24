@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+for(auto i : ${1:container}) {
+    
+}
+]]></content>
+    <tabTrigger>range</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

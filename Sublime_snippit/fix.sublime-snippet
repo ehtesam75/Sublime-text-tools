@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+cout << string(20, '-') << endl;
+]]></content>
+    <tabTrigger>fix</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>
