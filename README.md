@@ -1,2 +1,2 @@
 # Sublime-text-tools
-Custom Sublime Text snippets, settings, and build files for improving workflow and productivity.
+A collection of my Sublime Text customizations, including snippets, settings, and build configurations, to enhance productivity and streamline development.
