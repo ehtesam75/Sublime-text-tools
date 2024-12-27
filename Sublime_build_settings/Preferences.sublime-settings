@@ -1,0 +1,13 @@
+{
+	"font_size": 11.7,
+	"save_on_focus_lost": true,
+	//"font_face": "JetBrains Mono",
+	"font_face": "Fira Code",
+	//"font_ligatures": true,
+	//"font_options": ["subpixel_antialias", "gray_antialias"],
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+}
